@@ -20,7 +20,7 @@ python employer_stock_analysis.py
 
 
 Excel file is saved to:
-- Update this to your local drive.
+- Update to your local drive.
 
 Notes:
 
